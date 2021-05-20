@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+    <string name="scan_to_google_sheets">Scan to Google Sheets</string>
+    <string name="jumaa_1">Jumaa 1</string>
+    <string name="jumaa_2">Jumaa 2</string>
+    <string name="jumaa_3">Jumaa 3</string>
+    <string name="scan">SCAN</string>
+    <string name="other">Other</string>
+    <string name="event_name">Event Name</string>
+    <string-array name="jumaa">
+        <item>Choose Jumaa Shift</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
